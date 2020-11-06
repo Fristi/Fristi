@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Fristi/Fristi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mark de Jong and I like functional programming in Scala and Haskell. Also I have an interest in simple UX / UI design.
+Currently working as a freelancer @ DHL. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on DHL projects written in Scala, cats, cats-effect, cats-tagless, fs2, doobie, http4s and ZIO :)
+- 🌱 I’m currently learning UX / UI design
+- 💬 Ask me about functional programming and functional scala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some interesting presentations I've done can be found here:
+
+- [refined](https://fristi.github.io/refined-deck/)
+- [cats](https://fristi.github.io/cats-deck/)
+- [http4s](https://fristi.github.io/http4s-deck/)
