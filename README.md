@@ -5,7 +5,6 @@ Currently working as a freelancer @ DHL.
 
 - 🔭 I’m currently working on DHL projects written in Scala, cats, cats-effect, cats-tagless, fs2, doobie, http4s and ZIO :)
 - 🌱 I’m currently learning UX / UI design
-- 💬 Ask me about functional programming and functional scala
 
 Some interesting presentations I've done can be found here:
 
