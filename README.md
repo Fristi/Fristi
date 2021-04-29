@@ -6,10 +6,4 @@ In my professional career I have worked at various companies doing diverse proje
 
 If you want to know more about me, have a look at my [website](https://www.vectos.net)
 
-I’m currently working on DHL projects written in Scala, cats, cats-effect, cats-tagless, fs2, doobie, http4s and ZIO. While my focus is on coding at the moment, I also recently got certified in Kubernetes and UX/UI design. With my experience and skills I hope I can help you with your digital experience!
-
-Some interesting recent presentations I've done on Scala libraries can be found here:
-
-- [refined](https://fristi.github.io/refined-deck/)
-- [cats](https://fristi.github.io/cats-deck/)
-- [http4s](https://fristi.github.io/http4s-deck/)
+I’m currently working on DHL projects written in Functional Scala. While my focus is on coding at the moment, I also recently got certified in Kubernetes and UX/UI design. With my experience and skills I hope I can help you with your digital experience
