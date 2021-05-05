@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mark de Jong and I am a websites/app builder. I design, code, architect and operate small to large websites and apps.
+My name is Mark and I am a websites/app builder. I design, code, architect and operate small to large websites and apps.
 
 In my professional career I have worked at various companies doing diverse projects. Ranging from from scratch CMS implementations, community sites, improving performance of existing software, designing high performance game backends, financial systems to single page web apps and mobile apps.
 
