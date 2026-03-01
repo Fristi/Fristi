@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a websites/app builder. I design, code and architect websites and apps.
+**Mark de Jong** is an experienced software engineer, which writes robust and scalable software, designs user-friendly interfaces, very critical, mentors others, and reviews code with care.
 
-In my professional career I have worked at various companies doing diverse projects. 
+My personal _solo_ OSS projects are archived. 
 
-Ranging from from scratch CMS implementations, community sites, improving performance of existing software, designing high performance game sites to single page web apps and mobile apps.
+Find more information on my website [https://markdejong.org](https://markdejong.org)
